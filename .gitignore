@@ -1,5 +1,6 @@
 *.sublime*
 RaspberryKernel
+*~
 
 # Prerequisites
 *.d
